@@ -1,0 +1,30 @@
+{
+    "data_20231114": 
+    [
+        {  
+            "name": "Francisco Chang",
+            "position": "Meio Campo",
+            "is_confirmed": true
+        },
+        {  
+            "name": "Maria Anders",
+            "position": "Zagueiro",
+            "is_confirmed": true
+        },
+        {  
+            "name": "Helen Bennett",
+            "position": "Atacante",
+            "is_confirmed": true
+        },
+        {  
+            "name": "Yoshi Tannamuri",
+            "position": "Atacante",
+            "is_confirmed": true
+        },
+        {  
+            "name": "Giovanni Rovelli",
+            "position": "Zagueiro",
+            "is_confirmed": false
+        }
+    ]
+}
